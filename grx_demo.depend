@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1607594225 source:z:\cloud\alp2020\r2020\l8\pool\demo-grx\main.c
+	<string.h>
+	"grx20.h"
+	<stdio.h>
+
+1607940112 
+
+1046295226 z:\cloud\alp2020\r2020\l8\pool\demo-grx\grx\include\grx20.h
+
+1607761293 source:z:\cloud\alp2020\kfs\kfs-05\pool\demo-grx\main.c
+	<string.h>
+	"grx20.h"
+	<stdio.h>
+
+1046295226 z:\cloud\alp2020\kfs\kfs-05\pool\demo-grx\grx\include\grx20.h
+
+1607940112 source:z:\cloud\17pbtaib\blok1-win\dema_a_starovni_ulohy\start_cb_alokace_nacitani_zobrazeni_win\main.c
+	<string.h>
+	"grx20.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1046295226 z:\cloud\17pbtaib\blok1-win\dema_a_starovni_ulohy\start_cb_alokace_nacitani_zobrazeni_win\grx\include\grx20.h
+
+1645090700 source:/Users/cross/Documents/_old_Synology_cloud/F7PBKAZC-C/tema_1/src/dema_a_starovni_ulohy/start_CB_alokace_nacitani_zobrazeni_WIN/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1678369139 source:z:\cross\insync\xsmrcka@gmail.com\google drive\2023 f7pbkazc + 17pbbazc\podklady-azc\moodle\tema1_podklady\dema_a_starovni_ulohy\start_cb_alokace_nacitani_zobrazeni_win\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
